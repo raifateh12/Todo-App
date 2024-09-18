@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+input{
+    min-width: 100%;
+}
+.items-container{
+    text-align: left;
+}
+.row {
+    margin: 10px 5px;
+}
+button{
+    width: 100%;
+}
